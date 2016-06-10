@@ -1,0 +1,4 @@
+#! /bin/bash
+git add index.html
+git commit -m "update to index.html"
+git push origin master
